@@ -9,7 +9,7 @@
 const profile = {
  fullName: "Oliver Ryall",
  programmingSkills: {
-    clientSoftware: ["JavaScript", "React", "HTML","CSS"],
+    clientSoftware: ["Node", "React", "HTML","CSS"],
     programming_lang:["Javascript","Solidity","Python","Vyper"]
         },
   languages: ["English", "French"],
