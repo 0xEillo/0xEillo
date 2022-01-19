@@ -1,5 +1,5 @@
 <h2> Hi there, I am Oliver!</h2>
-<img align='right' src="https://media4.giphy.com/media/BITy8aaTa0gFOJuMmO/giphy.gif?cid=ecf05e47y6r0a5cvsmfghaf7zv0sueuez140r82qeoi0nrcf&rid=giphy.gif&ct=g" width="230" eight="230">
+<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jv91tsqad7tckqhjmzwdb6tks1eep8wg1te2zm50&rid=giphy.gif&ct=g" width="230" eight="230" style="border-radius:50%">
 <p><em> Blockchain Developer 👨‍💻</em></p>
 
 
