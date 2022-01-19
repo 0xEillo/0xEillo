@@ -1,9 +1,9 @@
 <h2> Hi there, I am Oliver!</h2>
-<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jv91tsqad7tckqhjmzwdb6tks1eep8wg1te2zm50&rid=giphy.gif&ct=g" width="230" eight="230" style="border-radius:50%">
-<p><em> Blockchain Developer 👨‍💻</em></p>
+<p><em> Blockchain Developer</em></p>
 
 
-### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media3.giphy.com/media/HVNvHYTrMaDBn5Arxn/200w.webp?cid=ecf05e4747dk7nk4biugbi49jlvfae05qs210c6p5wnayqzm&rid=200w.webp&ct=s" width="50"> A little more about me...  
+<img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jv91tsqad7tckqhjmzwdb6tks1eep8wg1te2zm50&rid=giphy.gif&ct=g" width="262" eight="263" style="border-radius:50%">
 
 ```javascript
 const profile = {
