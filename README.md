@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi there, I am Oliver!</h2>
+<img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="230" eight="230">
+<p><em> Blockchain Developer 👨‍💻</em></p>
 
-<!--
-**Oliver-Ryall/Oliver-Ryall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const profile = {
+ fullName: "Oliver Ryall",
+ programmingSkills: {
+    clientSoftware: ["JavaScript", "React", "HTML","CSS"],
+    programming_lang:["Javascript","Solidity","Python","Vyper"]
+        },
+  languages: ["English", "French"],
+  currentFocus: "Building on top of web3"
+}
+```
+
+📫 Contact me on: 
+    - [Twitter](https://twitter.com/Web3Ollie)
