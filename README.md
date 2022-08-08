@@ -10,12 +10,12 @@ const profile = {
  fullName: "Oliver Ryall",
  programmingSkills: {
     clientSoftware: ["Node", "React", "HTML","CSS"],
-    programming_lang:["Javascript","Solidity","Python","Vyper"]
+    programming_lang:["Typescript","Solidity","Python"]
         },
   languages: ["English", "French"],
-  currentFocus: "Building on top of web3"
+  currentFocus: "Building..."
 }
 ```
 
 📫 Contact me on: 
-    - [Twitter](https://twitter.com/Web3Ollie)
+    - [Twitter](https://twitter.com/eillo_eth)
