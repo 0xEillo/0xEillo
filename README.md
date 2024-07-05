@@ -51,8 +51,6 @@
 
 ### 🔎 Some stats
 
-![Ollie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xEillo&count_private=true&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xEillo&layout=compact&langs_count=8&theme=tokyonight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=0xEillo.count_visitors)
